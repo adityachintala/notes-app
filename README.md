@@ -1,8 +1,8 @@
 # Notes App — MERN CRUD Lab Activity
 
-**Candidate:** Aditya Chintala
-**Roll Number:** 2026201068
-**GitHub Repository:** <add link here>
+- **Candidate:** Aditya Chintala
+- **Roll Number:** 2026201068
+- **GitHub Repository:** https://github.com/adityachintala/notes-app
 
 A two-tier MERN application for creating, listing, and deleting notes (`title`, `content`, `createdAt`).
 
